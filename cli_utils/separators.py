@@ -1,0 +1,4 @@
+#cli_utils/separators.py
+
+def print_separator():
+    print("*" * 30)
